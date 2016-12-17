@@ -1,4 +1,0 @@
-Windows or DOS executable binaries.txt
-README.md
-Desktop Extensions.txt
-Installation from image files.txt
